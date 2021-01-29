@@ -1,4 +1,8 @@
-GOG-VR
+# GOG-VR
+
+<h4>Click on this thumbnail to watch the gameplay. (redirects to youtube...)</h4>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZUXSLoXrbY0/0.jpg)](http://www.youtube.com/watch?v=ZUXSLoXrbY0&feature=youtu.be&ab_channel=M.IShanto "Watch Gameplay.. ")
 
 A VR Game of modified "Gaurdian of the garden"
 <h5>Loading scene</h5>
